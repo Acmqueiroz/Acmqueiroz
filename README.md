@@ -19,7 +19,7 @@
 <br>
 <li>🎓 Após construir sólidas bases em lógica de programação, HTML, CSS, Javascript e Git/Github, tenho evoluido em ReactJS e seu ecossistema de tecnologia, sendo algumas delas: TypeScript e NodeJS. </li>
 <br>
-<li>💻 Atualmente disponivel para estágios  e vagas  de Desenvolvedor Junior, na área de desenvolvimento frontend e devops. </li>
+<li>💻  </li>
 </ul>
 <br>
 <!--FIM descrição-->
