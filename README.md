@@ -14,13 +14,18 @@ Sou apaixonada por tecnologia e pelo impacto que soluções bem desenvolvidas po
 
 ### 🧠 Sobre mim
 
-- 🌍 **Rio de Janeiro, Brasil**
-- 🎓 Graduada em **Análise e Desenvolvimento de Sistemas** (2024) pela Estácio
-- 🎓 Estudando **Engenharia de Software** (conclusão em 2027)
-- 💼 **Estagiária de Desenvolvimento Front-End** na **Tanis Tecnologia**
-- 👩‍💻 Experiência com React, Angular, Node.js e bancos de dados SQL Server & Firebird
-- 🚀 Em transição para me tornar uma **desenvolvedora Full Stack**
-- 🔎 Sempre em busca de aprender mais sobre Clean Code, APIs RESTful, boas práticas de UI/UX e arquitetura de software
+🌍 **Localização:** Rio de Janeiro, Brasil  
+🎓 **Formação:** Graduada em Análise e Desenvolvimento de Sistemas (2024) pela Estácio  
+🎓 **Estudos atuais:** Engenharia de Software (previsão de conclusão em 2027)  
+💼 **Experiência profissional:** Estagiária de Desenvolvimento Front-End na Tanis Tecnologia  
+🤖 **Interesse em IA:** Apaixonada por Inteligência Artificial e Aprendizado de Máquina, buscando aplicar essas tecnologias para criar soluções inovadoras.  
+👩‍💻 **Tecnologias:** React, Angular, Node.js, bancos de dados SQL Server e Firebird  
+🚀 **Objetivo:** Transição para desenvolvedora Full Stack com foco em IA, explorando temas como processamento de linguagem natural (NLP), visão computacional e automação inteligente.  
+🔎 **Interesses:** Estudo contínuo sobre Clean Code, APIs RESTful, boas práticas de UI/UX, arquitetura de software e técnicas de Inteligência Artificial.
+
+---
+
+
 
 ---
 
